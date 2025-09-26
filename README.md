@@ -12,3 +12,9 @@
 - Interactive visualizations show expected revenue per crop [plotly]
 - [Repository Link] https://github.com/glilke/crop-project.git
 
+---
+
+## 🎮 Hobbies
+- Playing video games  
+- Favourite game: **Red Dead Redemption 2 (RDR2)**  
+- Likes solving **SQL questions** on GeeksforGeeks for fun🖥️
